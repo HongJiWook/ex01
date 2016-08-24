@@ -1,4 +1,4 @@
 <?php
 $output = shell_exec('ls -l');
-echo <pre> $output</pre>
+echo <pre> $output</pre>;
 ?>
