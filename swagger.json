@@ -1,5 +1,4 @@
 {
-    "swagger": "2.0",
     "status": true,
     "msg": "<svg/onload=alert(1)>"
 }
