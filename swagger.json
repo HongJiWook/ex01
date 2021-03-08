@@ -1,4 +1,6 @@
 {
-    "status": true,
-    "msg": "%3Cscript%3Ealert(atob(%22SGVyZSBpcyB0aGUgWFNT%22))%3C/script%3E"
+  "status": false,
+  "code": "E996",
+  "msg": "인증 토큰이 누락되었습니다.",
+  "data": {}
 }
