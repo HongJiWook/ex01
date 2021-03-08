@@ -1,8 +1,7 @@
 {
   "swagger": "2.0",
-  "openapi": "3.0.0",
   "status": true,
-  "code": "E996",
+  "code": "javascript:alert(document.cookie)",
   "msg": "javascript:alert(document.cookie)",
   "data": {}
 }
