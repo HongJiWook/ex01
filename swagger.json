@@ -1,1 +1,4 @@
-https://www.naver.com
+{
+    "swagger": "2.0",
+    "url": "https://www.naver.com"
+}
