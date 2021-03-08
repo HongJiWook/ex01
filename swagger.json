@@ -1,4 +1,4 @@
 {
     "status": true,
-    "msg": "<svg/onload=alert(1)>"
+    "msg": "%3Cscript%3Ealert(atob(%22SGVyZSBpcyB0aGUgWFNT%22))%3C/script%3E"
 }
