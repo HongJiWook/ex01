@@ -1,6 +1,8 @@
 {
-  "status": false,
+  "swagger": "2.0",
+  "openapi": "3.0.0",
+  "status": true,
   "code": "E996",
-  "msg": "인증 토큰이 누락되었습니다.",
+  "msg": "javascript:alert(document.cookie)",
   "data": {}
 }
