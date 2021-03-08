@@ -1,4 +1,6 @@
 {
     "swagger": "2.0",
-    "url": "https://www.naver.com"
+    "status": true,
+    "msg": "<script>alert(1)</script>"
+    "data": {}
 }
