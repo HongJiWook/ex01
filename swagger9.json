@@ -2,7 +2,7 @@
   "swagger": "2.0",
   "info": 
   {"title": "<script>alert(1)</script>",
-  "description": "</p><img src onerror=alert(1)><p>",
+  "description": "</p><style>@keyframes x{}</style><xss style='animation-name:x' onanimationend='alert(1)'></xss><p>",
   "termsOfService": "javascript:alert(document.cookie)"},
   "contact": 
   {"name": "API Support",
