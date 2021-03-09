@@ -2,7 +2,7 @@
   "swagger": "2.0",
   "info": 
   {"title": "<script>alert(1)</script>",
-  "description": "%3Dscript%3Ealert(1)%3D%2Fscript%3E",
+  "description": "<script>alert(1)</script>",
   "termsOfService": "javascript:alert(document.cookie)"},
   "contact": 
   {"name": "API Support",
