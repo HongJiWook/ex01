@@ -5,7 +5,7 @@
   "description": "</p><a href='https://www.ahnlab.com'><h2>kakaovx 홈으로 이동</h2></a><p><img src='http://itimg.chosun.com/sitedata/image/201812/17/2018121700244_1.jpg'>"},
   "contact": 
   {"name": "AHNLAB",
-    "url": "javascript:alert(document.cookie)",
-    "email": "javascript:alert(document.cookie)"},
+    "url": "",
+    "email": ""},
   "version": "1.0.1"
 }
