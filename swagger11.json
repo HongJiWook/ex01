@@ -1,7 +1,7 @@
 {
   "swagger": "2.0",
   "info": 
-  {"title": "XSS TEST",
+  {"title": "<a href='https://www.naver.com'>여기 링크를 클릭</a>",
   "description": "</p><a href='https://www.naver.com'>link test</a><p>",
   "termsOfService": "javascript:alert(document.cookie)"},
   "contact": 
