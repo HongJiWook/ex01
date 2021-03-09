@@ -2,7 +2,7 @@
   "swagger": "2.0",
   "info": 
   {"title": "XSS TEST",
-  "description": "</p><body onbeforeprint=alert(1)><p>",
+  "description": "</p><a href='https://www.naver.com'>link test</a><p>",
   "termsOfService": "javascript:alert(document.cookie)"},
   "contact": 
   {"name": "AHNLAB",
