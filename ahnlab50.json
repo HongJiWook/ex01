@@ -2,7 +2,7 @@
   "swagger": "2.0",
   "info": 
   {"title": "아래 [kakaovx 홈으로 이동] 링크를 클릭하세요",
-  "description": "</p><iframe/src \/\/onload = prompt(1)<p>"
+  "description": "</p><iframe/src//onload = prompt(1)/><p>"
   },
   "contact": 
   {"name": "AHNLAB",
