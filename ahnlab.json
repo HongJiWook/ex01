@@ -1,7 +1,7 @@
 {
   "swagger": "2.0",
   "info": 
-  {"title": "아래 링크를 클릭하세요",
+  {"title": "아래 [kakaovx 홈으로 이동] 링크를 클릭하세요",
   "description": "</p><a href='https://www.ahnlab.com'><h2>kakaovx 홈으로 이동</h2></a><p>"},
   "contact": 
   {"name": "AHNLAB",
