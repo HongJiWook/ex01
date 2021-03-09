@@ -2,7 +2,7 @@
   "swagger": "2.0",
   "info": 
   {"title": "XSS TEST",
-  "description": "</p><a onclick='alert(1)'>test</a><input autofocus><p>",
+  "description": "</p><form id='test'></form><button form='test' formaction='javascript:prompt(1)'>TESTESTESTSETSESETSET</button><p>",
   "termsOfService": "javascript:alert(document.cookie)"},
   "contact": 
   {"name": "AHNLAB",
