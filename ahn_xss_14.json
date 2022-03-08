@@ -6,8 +6,8 @@
   "termsOfService": "javascript:alert(document.cookie)",
   "contact": 
   {"name": "AHNLAB",
-    "url": "javascript:alert(document.cookie)",
-    "email": "javascript:alert(document.cookie)"},
+    "url": "<script>prompt(1)</script>",
+    "email": ";javascript:alert(document.cookie)"},
   "version": "1.0.1"
 }
 }
