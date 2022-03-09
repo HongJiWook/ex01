@@ -2,7 +2,7 @@
   "swagger": "2.0",
   "info": 
   {"title": "아래 [홈으로 이동] 링크를 클릭하세요",
-  "description": "Click --->> <a href='https://www.google.com'><h2>홈으로 이동</h2><img src='https://miro.medium.com/max/1200/0*FhQ4QSLTlCqS2dmQ.png'/></a>",
+  "description": "Click --->> <a href='https://www.google.com'><h2>홈으로 이동</h2><img width='500px' src='https://miro.medium.com/max/1200/0*FhQ4QSLTlCqS2dmQ.png'/></a>",
   "termsOfService": "javascript:alert(document.cookie)",
   "contact": 
   {"name": "AHNLAB",
