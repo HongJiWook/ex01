@@ -24,7 +24,7 @@ if __name__ == "__main__":
 				DID_ALPHA_IDX[i-1] += 1
 		DID_ALPHA = "".join([UPPER_ALPHA[i] for i in DID_ALPHA_IDX])
 		
-		ret = os.system("./{} [} {} [}".format(PROGRAM_NAME, MODE, DID_FORMAT + DID_ALPHA, INITSTRING))
+		ret = os.system("./{} {} {} {}".format(PROGRAM_NAME, MODE, DID_FORMAT + DID_ALPHA, INITSTRING))
 		
 		DID_ALPHA_IDX[-1] += 1
 		print("\n")
