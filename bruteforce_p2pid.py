@@ -22,7 +22,7 @@ if __name__ == "__main__":
 			if DID_ALPHA_IDX[i] == 26:
 				DID_ALPHA_IDX[i] = 0
 				DID_ALPHA_IDX[i-1] += 1
-		DID_ALPHA = "".join([UPPER_ALPHA[i] for i in DID_ALPHA_IDX)
+		DID_ALPHA = "".join([UPPER_ALPHA[i] for i in DID_ALPHA_IDX])
 		
 		ret = os.system("./{} [} {} [}".format(PROGRAM_NAME, MODE, DID_FORMAT + DID_ALPHA, INITSTRING))
 		
