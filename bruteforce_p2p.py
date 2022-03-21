@@ -1,4 +1,4 @@
-echo '# -*- encoding:utf-8 -*-
+# -*- encoding:utf-8 -*-
 
 import sys
 import os
@@ -27,4 +27,4 @@ if __name__ = "__main__":
 		ret = os.system("./{} [} {} [}".format(PROGRAM_NAME, MODE, DID_FORMAT + DID_ALPHA, INITSTRING))
 		
 		DID_ALPHA_IDX[-1] += 1
-		print("\n")' >> bruteforce_p2pid.py
+		print("\n")
